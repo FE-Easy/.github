@@ -1,12 +1,60 @@
-## Hi there 👋
+# FE-Easy
+> 프론트엔드 스터디 그룹 페이지(FE-Easy)
 
-<!--
+## 1. 페이지는?
+- 엘리스 트랙(SW, AI)을 수료한 프론트엔드 개발자들이 모여 스터디 그룹을 만들었습니다
+- 2022년 8월 17일 첫 모임을 시작하여 1주일에 1회 1시간씩 온라인에서 모임을 갖고 있습니다
 
-**Here are some ideas to get you started:**
+## 2. 목표
+- 두껍고 지루한 기술 서적을 함께 읽으며 처음부터 끝까지 완독하기
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 3. 스터디 흐름
+- 1주일 동안 공통 분량을 읽고 (e.g.챕터 6~9) 문제와 답안 2세트를 만들어 오면,
+- 스터디 모임날 팀원들이 각각 한 문제씩 풀며 답안과 이유를 설명합니다
+- 그리고 출제자와 다른 팀원들이 피드백을 진행합니다
+
+## 4. 사용하는 툴
+<table>
+    <tr>
+        <th>화상 회의 / 화면 공유</th>
+        <th>자료 공유 / 라이브 코딩</th>
+    </tr>
+    <tr>
+        <th>
+            <img width="150px" alt="디스코드" src="https://w.namu.la/s/88fedfb02f653aa71c504844280b28931dafee89f47af8bd4e4e153847ee42a1976d7ad8aed06b4028cffaf61d21036c333126128d81602884160a4d4771ccfd7a13e321967d0ae2f46be345a55cbbb70c4f45c88944ea032e85f7e5b8986d555e2d8b1bec1b69bc7e0c75d9077a350a">
+        </th>
+        <th>
+            <img width="150px" alt="노션" src="https://w.namu.la/s/55f8f597ebaceeb4e3397bc34606addfbf29530ddc5c0784541c4f8c2847047232c525971afb96be3b7e12bc61bc854b43bc6e02ab6c5e904e9f6680180f64713938b659bebd6ae5a5d99cd13d34c886847b8588f98b99a22378252c637145ee">
+        </th>
+    </tr>
+    <tr>
+        <th>디스코드</th>
+        <th>노션</th>
+    </tr>
+</table>
+
+## 5. 무엇을 공부하나요?
+<table>
+    <tr>
+        <th>22/08/17 ~ 22/12/11 (17주)</th>
+        <th>22/12/12 ~</th>
+    </tr>
+    <tr>
+        <th>
+            <a href="http://www.yes24.com/Product/Goods/92742567">
+                <img width="150px" alt="모던 자바스크립트 Deep Dive" src="https://image.yes24.com/goods/92742567/XL">
+            </a>
+        </th>
+        <th>
+            <a href="http://www.yes24.com/Product/Goods/102124327">
+                <img width="150px" alt="이펙티브 타입스크립트" src="https://image.yes24.com/goods/102124327/XL">
+            </a>
+        </th>
+    </tr>
+    <tr>
+        <th><a href="https://github.com/FE-Easy/modern-js-deepdive">모던 자바스크립트 Deep Dive</a></th>
+        <th><a href="https://github.com/FE-Easy/effective-typescript">이펙티브 타입스크립트</a></th>
+    </tr>
+</table>
+
+## 6. 구성원
