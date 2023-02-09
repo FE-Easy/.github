@@ -24,7 +24,7 @@
             <img width="150px" alt="디스코드" src="https://w.namu.la/s/88fedfb02f653aa71c504844280b28931dafee89f47af8bd4e4e153847ee42a1976d7ad8aed06b4028cffaf61d21036c333126128d81602884160a4d4771ccfd7a13e321967d0ae2f46be345a55cbbb70c4f45c88944ea032e85f7e5b8986d555e2d8b1bec1b69bc7e0c75d9077a350a">
         </th>
         <th>
-            <img width="150px" alt="노션" src="https://w.namu.la/s/55f8f597ebaceeb4e3397bc34606addfbf29530ddc5c0784541c4f8c2847047232c525971afb96be3b7e12bc61bc854b43bc6e02ab6c5e904e9f6680180f64713938b659bebd6ae5a5d99cd13d34c886847b8588f98b99a22378252c637145ee">
+            <img width="150px" alt="노션" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png">
         </th>
     </tr>
     <tr>
